@@ -1,8 +1,13 @@
 # Andrej Kurochenko
 
-Senior developer & wannabe builder. Automating myself since 2024.
+Senior developer & wannabe builder.
 
-**Projects:** [cookt.io](https://cookt.io) | [skillbook.dev](https://skillbook.dev)
+---
+
+## Projects
+
+- **cookt.io** — Recipe organizer with AI. Paste any recipe format, get structured ingredients, steps, and chat with your recipes.
+- **skillbook.dev** — CLI tool for managing AI skills across editors. Centralized library for OpenCode, Cursor, Claude Code.
 
 ---
 
@@ -27,19 +32,15 @@ AI pipeline that analyzes PRs, suggests fixes, and auto-generates merge requests
 
 ---
 
-## Tech Journey
+## Background
 
 Started with backend (JVM, Node), moved through frontend web (React) and mobile (React Native), then cloud/serverless, Linux, and DevOps.
 
-**Lately:** TypeScript + n8n for everything — backend, frontend, terminal UIs. If it can be automated, it will be.
+**Lately:** TypeScript for everything — backend, frontend, terminal UIs.
 
-**Current AI stack:** OpenClawd, Claude Code, Codex, Kimi
+**Current AI stack:** OpenClawd
 
----
-
-## Writing
-
-- [From hours to minutes: How AI agents handle our production issues](https://medium.com/@andrejkurocenko/from-hours-to-minutes-how-ai-agents-handle-our-production-issues-94cf8a85eab8)
+**Passion:** Business and product development. Building things that people actually use.
 
 ---
 
