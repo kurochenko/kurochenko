@@ -1,6 +1,6 @@
 # Andrej Kurochenko
 
-Senior developer building tools that automate development.
+Senior developer & wannabe builder. Automating myself since 2024.
 
 **Projects:** [cookt.io](https://cookt.io) | [skillbook.dev](https://skillbook.dev)
 
@@ -9,41 +9,37 @@ Senior developer building tools that automate development.
 ## What I Do
 
 Help teams integrate AI into their development workflow:
-- Automating bug fixing and code review pipelines
+- Automating bug fixing and code review pipelines  
 - Streamlining development processes
-- Parallelizing design and implementation
+- Building tools that let developers focus on what matters
 
 ---
 
 ## Case Studies
 
-### Incident Response Automation
-Reduced production incident diagnosis from 30 minutes to 5 minutes using AI agents connected to monitoring, logs, and code repositories.
+### From Hours to Minutes
+Built AI agents that handle production incidents — what used to take hours now takes 5 minutes.
 
-[Read article →](#)
+[Read article →](https://medium.com/@andrejkurocenko/from-hours-to-minutes-how-ai-agents-handle-our-production-issues-94cf8a85eab8)
 
-### Code Review Automation  
-Built AI pipeline that analyzes PRs, suggests fixes, and auto-generates merge requests for common issues.
-
-[Read article →](#)
+### Code Review Automation
+AI pipeline that analyzes PRs, suggests fixes, and auto-generates merge requests for common issues.
 
 ---
 
-## Tech Stack
+## Tech Journey
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square)
+Started with backend (JVM, Node), moved through frontend web (React) and mobile (React Native), then cloud/serverless, Linux, and DevOps.
 
-**AI Tools:** OpenClawd, Claude Code, Codex, Kimi
+**Lately:** TypeScript + n8n for everything — backend, frontend, terminal UIs. If it can be automated, it will be.
+
+**Current AI stack:** OpenClawd, Claude Code, Codex, Kimi
 
 ---
 
 ## Writing
 
-- [Automating incident response with AI agents](#)
-- [Building autonomous code review pipelines](#)
+- [From hours to minutes: How AI agents handle our production issues](https://medium.com/@andrejkurocenko/from-hours-to-minutes-how-ai-agents-handle-our-production-issues-94cf8a85eab8)
 
 ---
 
