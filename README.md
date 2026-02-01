@@ -39,6 +39,4 @@ Started with backend (JVM, Node), moved through frontend web (React) and mobile 
 
 **Current AI stack:** OpenCode && OpenClawd 🦞
 
-**Passion:** Business and product development. Building things that people actually use.
 
-📧 kurochenko@gmail.com
