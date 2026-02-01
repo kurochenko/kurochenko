@@ -7,7 +7,7 @@ Senior developer & wannabe builder.
 ## Projects
 
 - **cookt.io** — Recipe organizer with AI. Paste any recipe format, get structured ingredients, steps, and chat with your recipes.
-- **skillbook.dev** — CLI tool for managing AI skills across editors. Centralized library for OpenCode, Cursor, Claude Code.
+- **skillbook.dev** — CLI tool for managing AI skills across projects and teams. Centralized library that works with any AI harness (OpenCode, Cursor, Claude Code).
 
 ---
 
