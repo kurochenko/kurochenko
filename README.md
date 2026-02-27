@@ -8,6 +8,8 @@ Senior developer & wannabe builder.
 
 [**skillbook.dev**](https://skillbook.dev) — CLI tool for managing AI skills across projects and teams. Centralized library that works with any AI harness (OpenCode, Cursor, Claude Code).
 
+[**pi.nvim**](https://github.com/kurochenko/pi.nvim) — Neovim plugin that integrates the [Pi](https://pi.dev) coding agent into a side panel. Select code, send it to Pi with a keypress, and get responses back — with context placeholders, an action picker, and built-in prompts for explain, review, fix, test, and more.
+
 ## What I Do
 
 Help teams integrate AI into their development workflow:
