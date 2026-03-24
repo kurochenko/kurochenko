@@ -10,6 +10,8 @@ Senior developer & wannabe builder.
 
 [**pi.nvim**](https://github.com/kurochenko/pi.nvim) — Neovim plugin that integrates the [Pi](https://pi.dev) coding agent into a side panel. Select code, send it to Pi with a keypress, and get responses back — with context placeholders, an action picker, and built-in prompts for explain, review, fix, test, and more.
 
+[**living-spec**](https://github.com/kurochenko/living-spec) — Stop your AI from making things up. Framework that captures hidden project knowledge — invariants, decisions, rules — in a format your LLM reads before it writes code. Catch contradictions early, auto-generate tests from specs, and make tribal knowledge explicit.
+
 ## What I Do
 
 Help teams integrate AI into their development workflow:
