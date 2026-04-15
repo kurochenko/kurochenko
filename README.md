@@ -41,6 +41,5 @@ Started with backend (JVM, Node), moved through frontend web (React) and mobile 
 
 **Lately:** TypeScript for everything — backend, frontend, terminal UIs.
 
-**Current AI stack:** OpenCode && OpenClawd 🦞
 
 
