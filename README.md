@@ -4,9 +4,11 @@ Senior developer & wannabe builder.
 
 ## Projects
 
+[**Mend**](https://github.com/kurochenko/mend) — Autonomous merge-request review for GitLab. Runs on your own machine, reviews MRs with your coding agent of choice, and posts structured findings back as draft notes.
+
 [**cookt.io**](https://cookt.io) — Recipe organizer with AI. Paste any recipe format, get structured ingredients, steps, and chat with your recipes.
 
-[**skillbook.dev**](https://skillbook.dev) — CLI tool for managing AI skills across projects and teams. Centralized library that works with any AI harness (OpenCode, Cursor, Claude Code).
+[**skillbook.dev**](https://github.com/kurochenko/skillbook) — CLI tool for managing AI skills across projects and teams. Centralized library that works with any AI harness (OpenCode, Cursor, Claude Code).
 
 [**pi.nvim**](https://github.com/kurochenko/pi.nvim) — Neovim plugin that integrates the [Pi](https://pi.dev) coding agent into a side panel. Select code, send it to Pi with a keypress, and get responses back — with context placeholders, an action picker, and built-in prompts for explain, review, fix, test, and more.
 
@@ -40,6 +42,5 @@ AI pipeline that analyzes PRs, suggests fixes, and auto-generates merge requests
 Started with backend (JVM, Node), moved through frontend web (React) and mobile (React Native), then cloud/serverless, Linux, and DevOps.
 
 **Lately:** TypeScript for everything — backend, frontend, terminal UIs.
-
 
 
