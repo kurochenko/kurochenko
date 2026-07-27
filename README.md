@@ -4,7 +4,7 @@ Senior developer & wannabe builder.
 
 ## Projects
 
-[**Mend**](https://github.com/kurochenko/mend) — Autonomous merge-request review for GitLab. Runs on your own machine, reviews MRs with your coding agent of choice, and posts structured findings back as draft notes.
+[**Mend**](https://github.com/kurochenko/mend) — Autonomous code review for GitLab and GitHub. Runs on your own machine with your coding agent of choice. GitLab is supported today, with GitHub support coming soon.
 
 [**cookt.io**](https://cookt.io) — Recipe organizer with AI. Paste any recipe format, get structured ingredients, steps, and chat with your recipes.
 
@@ -42,5 +42,4 @@ AI pipeline that analyzes PRs, suggests fixes, and auto-generates merge requests
 Started with backend (JVM, Node), moved through frontend web (React) and mobile (React Native), then cloud/serverless, Linux, and DevOps.
 
 **Lately:** TypeScript for everything — backend, frontend, terminal UIs.
-
 
