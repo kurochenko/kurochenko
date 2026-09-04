@@ -1,6 +1,6 @@
 # Andrej Kurochenko
 
-Senior developer & wannabe builder.
+Developer, builder.
 
 ## Projects
 
